@@ -1,0 +1,17 @@
+Shopping Cart Assignment
+
+1. Home Page:This is the starting page of the web app. It contains the header and footer. In the body, there is a carousel showing the different products that are available for purchase. Underneath the carousel, there are different sections for different products. Each section has a heading and then different products under that heading. 
+
+2. Login Page: This page is for logging into the web app. It contains the header and footer. In the body, there is a login form. The user must enter their username and password in order to login. 
+
+3. Header and Footer: The header and footer are the same on every page. The header has the name of the web app and the footer has the copyright information. 
+
+4. Products Listing Page: This page contains a list of all the products that are available for purchase. It contains the header and footer. In the body, there is a search bar and a list of products. The user can search for a specific product or they can browse through the list of products. 
+
+5. Cart/Checkout Page: This page is for checking out the products that are in the user's cart. It contains the header
+
+The first thing I would do is add a “continue shopping” button to the shopping cart page. This button would take the customer back to the last page they were on before they were redirected to the shopping cart page. This would allow the customer to continue shopping without having to start from the beginning again.
+I would also add a “clear cart” button to the shopping cart page.This button would remove all items from the customer’s shopping cart.
+I would add a “quantity” field to each item in the shopping cart.This would allow the customer to specify how many of each item they would like to purchase.
+
+Github Link: https://github.com/Partho97/E-commerce/tree/master (Code Files)
